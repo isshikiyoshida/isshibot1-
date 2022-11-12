@@ -10,7 +10,7 @@
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
-### `—◉ 🤖 BOTS OFICIALES 🤖`
+### `🔰 BOTS OFICIALES 🔰`
 
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -32,7 +32,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Edgaryoshida12/ToxiBot-Jadibot.git
+git clone https://github.com/ToxiPain/ToxiBot-Jadibot.git
 ```
 
 ```bash
@@ -55,7 +55,7 @@ npm install
 npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+### `$/// EN CASO DE DETENERSE EN TERMUX USA: $///`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -63,14 +63,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> rm -rf MysticSession
-> npm start
-```
-
-BOT BY TOXIPAIN 
+BOT BY TOXIPAIN OFICIAL 
