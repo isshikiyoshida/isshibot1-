@@ -3,6 +3,8 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
 *—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/50557418454*
+
+GITHUB: https://github.com/ToxiPain/ToxiBot-Jadibot
 `.trim()   
 let buttonMessage= {
 'document': { url: `https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT` },
