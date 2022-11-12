@@ -59,7 +59,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Mystic-termux
+> cd ToxiBot-Jadibot
 > npm start
 ```
 
