@@ -1,6 +1,6 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `☣️ TOXI-BOT OFICIAL ☣️`
 
-### `☢️ CONTACTANOS ☢️`
+### `👤 CONTACTANOS 👤`
 <a href="http://wa.me/50557418454" target="blank"><img src="https://img.shields.io/badge/TOXI_PAIN_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/50585424403" target="blank"><img src="https://img.shields.io/badge/DEGO_COLABORADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
