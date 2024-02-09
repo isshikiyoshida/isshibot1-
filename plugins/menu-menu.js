@@ -16,12 +16,12 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-╭═✦͜͡ৡৢ╡♛𝓣oxi-𝓑ot♛╞ৡৢ͜͡✦═
+╭═✦͜͡ৡৢ╡♛⧠࿙࿈᚛𝐈𝐬𝐬𝐡𝐢𝐛𝐨𝐭𝟏᚜࿈࿚⧠♛╞ৡৢ͜͡✦═
 ║┊: * ⃟ ⃟  ━ೋ๑——๑ೋ━ ⃟ ⃟ *      
 ║◄🔰┢ৡৢ͜͡✦━◇━ீ͜ৡৢ͜͡✦┧🔰►
 ║┊:      ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈  
-║┊:Creador: 𝑻𝒐𝒙𝒊𝒑𝒂𝒏 
-║┊:Num: wa.me/50557418454
+║┊:Creador:  🦉  [𝐏.𝐆] 𝖄𝖔𝖘𝖍𝖎𝖉𝖆⃞⃟⃝🇯🇵 •
+║┊:Num: wa.me/+519357468512
 ║┊:Tiempo activo: 
 ║┊ *${uptime}*
 ║┊:Fecha: 
@@ -231,9 +231,8 @@ _➼✰︙OWNERS MENU 🎭_
 *REPORTAR FALLOS:*
 _${usedPrefix}reporte *<texto>*_
 *Grupo Oficial del bot:*
-https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT
-*Grupo Roleplay:*
-https://chat.whatsapp.com/LY6J8bHh7G5AwHSjUL0Pjh
+
+
  ┗ೋ━ೋ✧ೋ━ೋ┛
 *■█🔰█■▱▰▱▰▱█🔰█■
 `.trim()
@@ -254,7 +253,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '♛𝓣oxi-𝓑ot♛',
+title: '⧠࿙࿈᚛𝐈𝐬𝐬𝐡𝐢𝐛𝐨𝐭𝟏᚜࿈࿚⧠,
 body: null,
 thumbnail: img,
 sourceUrl: `https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT`
