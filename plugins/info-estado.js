@@ -8,7 +8,7 @@ _muptime = await new Promise(resolve => { process.once('message', resolve)
 setTimeout(resolve, 1000) }) * 1000}
 let uptime = clockString(_uptime)
 let estado =`
-╭─[ *_TOXI-BOT_* ]
+╭─[ *_Isshi-Bot_* ]
 │ *➤ 𝙷𝙾𝙻𝙰 ${name}*
 │
 │ *ミ🤖 𝙴𝚂𝚃𝙰𝙳𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃 🤖彡*
@@ -17,7 +17,7 @@ let estado =`
 ╰───────────────
 `.trim()
 
-conn.sendHydrated(m.chat, estado, wm, picture, 'https://chat.whatsapp.com/L2PCWj8QQQ6HPZvmR7izIT', 'GRUPO OFC', null, null, [
+conn.sendHydrated(m.chat, estado, wm, picture, 'https://chat.whatsapp.com/Lj9f32H4d3OJcmCQTm6oD5, 'GRUPO OFC', null, null, [
 ['𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻', '/menu']
 ], m)}
 
